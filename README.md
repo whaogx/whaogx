@@ -1,8 +1,6 @@
-<h2 align="center">Hi there 👋 欢迎光临我的主页</h2>
+<h1 align="center">天行健，君子以自强不息</h1>
 
-- ### [酷我音乐VIP破解版](https://www.123pan.com/s/I1VlVv-AIjy.html)
 
-### 
 
 <!--
 
