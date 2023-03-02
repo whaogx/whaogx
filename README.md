@@ -1,5 +1,6 @@
+<h1 align="center">天行健，君子当自强不息</h1>
 
-![](https://user-images.githubusercontent.com/105477348/221790088-b8a1ed44-7e05-495a-b3b6-ad090d9bfbe6.jpg)
+![](https://user-images.githubusercontent.com/105477348/221784395-ba1b2d1b-5ed1-474d-b94e-322026b69357.png)
 
 <!--
 
