@@ -1,6 +1,6 @@
 <h1 align="center">天行健，君子当自强不息</h1>
 
-![国旗](https://user-images.githubusercontent.com/105477348/221784395-ba1b2d1b-5ed1-474d-b94e-322026b69357.png)
+![学习永远在路上](https://user-images.githubusercontent.com/105477348/224539201-526b12cb-a8f1-4109-957e-f3fef93e76ef.png)
 
 <!--
 
