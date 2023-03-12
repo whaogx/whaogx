@@ -1,5 +1,3 @@
-<h1 align="center">天行健，君子当自强不息</h1>
-
 ![学习永远在路上](https://user-images.githubusercontent.com/105477348/224539201-526b12cb-a8f1-4109-957e-f3fef93e76ef.png)
 
 <!--
