@@ -1,4 +1,4 @@
-### Hi there 👋
+# <h1 align="center">[![不忘初心](https://s1.imagehub.cc/images/2023/08/18/bwcx.png)](https://github.com/Beynon-wh/Beynon-wh/blob/main/001/list.md)</h1>
 
 <!--
 **whaogx/whaogx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
