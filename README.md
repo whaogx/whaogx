@@ -16,8 +16,8 @@
 - **[影视下载](https://www.bt-tt.com/)**
 - **[MP4电影](https://www.dbmp4.com/)**
 - **[抖音解析](https://vtool.pro/)**
-- **[阿里云搜](https://www.upyunso.com/)**
-- **[蓝奏云](https://dlj.bz/lzy/)**
+- **Avidemux](https://www.fosshub.com/Avidemux.html)**
+- **[losslesscut](https://github.com/mifi/lossless-cut/releases/tag/v3.59.1)**
 - **[系统镜像](http://www.msdn3.com/index.html)**
 - **[文件互传](https://deershare.com/send)**
 - **[图床](https://www.imagehub.cc/)**
