@@ -32,8 +32,9 @@
 - **[YouTube](https://www.youtube.com/)**
 - **[节点测速](https://speed.cloudflare.com/)**
 
-### My Telegram
- [![telegram](https://user-images.githubusercontent.com/128218225/226099755-9340f4e0-ff3b-476a-9fb1-02d951cda2b0.png)](http://t.me/whaogx) &emsp;
+###
+
+&emsp;
 <!--
 **whaogx/whaogx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
