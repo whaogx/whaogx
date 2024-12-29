@@ -6,8 +6,7 @@
 - **[其他机场推荐](https://github.com/whaogx/whaogx/blob/main/README1.md)**
 - **[茶猫](https://teacat.cloud/#/login)**
 - **[灵魂云](https://www.linghunyun.com/#/login)**
-- **[Clash for Android](https://pan.quark.cn/s/ef797093daf8)**
-- **[Clash for Win](https://pan.quark.cn/s/0b6a9aff7783)**
+- **[Clas](https://github.com/whaogx/whaogx/releases/tag/Clash)**
 - **[白鲸加速器](https://www.bjch123.com/?mid=3002)**
 - **[APKPure商店](https://apkpure.com/cn/)**
 
