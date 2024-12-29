@@ -1,4 +1,4 @@
-# <h1 align="center">[![不忘初心](https://s1.imagehub.cc/images/2023/08/18/bwcx.png)](https://github.com/Beynon-wh/Beynon-wh/blob/main/001/list.md)</h1>
+# <h1 align="center">[![不忘初心](https://s1.imagehub.cc/images/2023/08/18/bwcx.png)]</h1>
 
 <h1 align="center">Learning is always on the way</h1>
 
