@@ -5,6 +5,7 @@
 ### 科学上网
 - **[其他机场推荐](https://github.com/whaogx/whaogx/blob/main/README1.md)**
 - **[茶猫](https://teacat.cloud/#/login)**
+- **[火烧云](https://hsy88.org/#/register?code=pU0tFleq)**
 - **[灵魂云](https://www.linghunyun.com/#/register)**
 - **[Clash](https://github.com/whaogx/whaogx/releases/tag/Clash)**
 - **[白鲸加速器](https://www.bjch123.com/?mid=3002)**
